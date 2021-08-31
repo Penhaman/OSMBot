@@ -2,8 +2,8 @@
 const {remote} = require('webdriverio');
 
 //Variáveis para as credênciais da conta
-const username = 'Penhaman'
-const pass = '#testedesom#'
+const username = 'usernamehere'
+const pass = 'passwordhere'
 
 const gLog = "#page-signup > div.page.content.hidden-before-binding > div.register-information-container.horizontal-center-absolute > div:nth-child(2) > button"
 const permAds = "#page-privacynotice > div > div > div:nth-child(2) > div:nth-child(3) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > button > span"
